@@ -41,7 +41,7 @@
     "@types/react-window": "^1.8.5",
     "@types/semver": "^7.3.8",
     "@typescript-eslint/eslint-plugin": "^8.3.0",
-    "@typescript-eslint/parser": "^8.3.0",
+    "@typescript-eslint/parser": "^8.25.0",
     "@vitejs/plugin-react": "^4.2.1",
     "base64-arraybuffer": "^1.0.2",
     "buffer": "^6.0.3",
